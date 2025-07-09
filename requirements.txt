@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+requests
+beautifulsoup4
+SQLAlchemy
+geopy
+python-dotenv
+psycopg2-binary
+openai
